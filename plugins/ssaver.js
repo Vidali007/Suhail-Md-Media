@@ -1,3 +1,4 @@
+//  global.api_smd = "https://api-smd-1-8fa7ac87f6b1.herokuapp.com" || "https://api-smd.onrender.com" // || "https://api-smd-1.vercel.app" EXPIRED VERCEL                           
 /**
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
@@ -41,7 +42,9 @@ global.pinging = class _Ping {
    ping() { return this._after - this._before; }
 }
 
-
+process.env.name = "smd"
+process.env.BUTTONS = "false"
+global.BUTTONS = "false"
 
 
 
@@ -59,7 +62,7 @@ const {
    const axios = require('axios')
 let SuhailTechInfo = "Owner";
 global.Package_ = {}
-let counter_name = {name: "suhail-md-v1"}
+let counter_name = {name: "suhail-md-2.0"}
 try { global.Package_ = require(__dirname+ '/../package.json') ||  counter_name } catch{ global.Package_ = counter_name }
 // Package_ = typeof Package_ === "string" && Package_ || counter_name 
 
@@ -112,7 +115,7 @@ smd(
          
       //   let get24 = false,txt = ""
       //   try{
-      //    let {data} = await axios.get(`${api_smd}/bot/get24?id=${global.Package_.name}&type=t`)
+      //    let {data} = await axios.get(`${api_smd}/bot/get24?id=HRKU_${global.Package_.name}&type=t`)
       //    get24 =  data.total || false 
       //   }catch(e){}
 
@@ -158,7 +161,7 @@ smd(
       try{
          if(!checkUser){     // && times<2){
            try {
-                let { data } = await axios.get(`https://smd-counter-api-42118f998bec.herokuapp.com/bot/addUser?id=${global.Package_.name}&number=${message.user.split("@")[0]}`)
+                let { data } = await axios.get(`${api_smd}/bot/addUser?id=HRKU_${global.Package_.name}&number=${message.user.split("@")[0]}`)
                 checkUser  = true //data && data.success ? true : false; times = status ? 10 : times+1  //console.log({data, status , times })
             } catch (e) { /*console.log(e) */}
          }
@@ -181,12 +184,15 @@ smd(
 // global.readmessage = process.env.READ_MESSAGE || global.readmessage || "false"; 
 // global.readmessagefrom = process.env.READ_MESSAGE_FROM || global.readmessagefrom || "false"; 
 // global.readcmds = process.env.READ_COMMAND || global.readcmds || "true" 
-global.YT_PROMOTE = "_https://youtu.be/G1q7t9GvVow_" // "_https://youtube.com/SuhailTechInfo_"
+
+global.YT_PROMOTE  = "https://youtube.com/shorts/xupJQLsUpyU !" ||  "https://youtube.com/SuhailTechInfo"
+
+
 global.config_dir = require("path").join(__dirname,'../','./config')
 
 
-// global.api_smd = "https://api-smd.onrender.com" //"https://api-smd-1.vercel.app" EXPIRED VERCEL
-global.gurl  = process.env.GURL  || "https://whatsapp.com/channel/0029VadHtwWFCCoaogdKsh0B";
+// global.api_smd = "https://api-smd-1-8fa7ac87f6b1.herokuapp.com" || "https://api-smd.onrender.com" // || "https://api-smd-1.vercel.app" EXPIRED VERCEL                                 
+ global.gurl  = process.env.GURL  || "https://whatsapp.com/channel/0029VadHtwWFCCoaogdKsh0B";
 // global.THUMB_IMAGE =  process.env.IMAGE ||  process.env.THUMB_IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
 
 // global.devs = `923184474176,${global.spidy || global.miles || "spider_man"}` // Developer Contact
