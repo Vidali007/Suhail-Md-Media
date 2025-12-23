@@ -1,309 +1,88 @@
-# Suhail-Md-Media
+ <h1 align="center"> Suhail Md </h1> 
+<p align="center"> Introducing Suhail_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
+<p align="center">
+  <a href="https://youtube.com/@suhailtechinfo">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/ec9bc5038601821f2eb84.jpg">
+  </a>
+</p>
+  
+   
+<p align="center">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md" />
+  </a>
+  <a aria-label="Suhail_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  </a>
+  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  </a>
 
-
-
-<h1 align="center"> Suhail Md Plugins </h1>
-<div align="center">
-<br /> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Suhail&label=Visitors%20count&color=10d9c3&style=plastic" alt="Suhail-plugin-list" /> </p>
-
-
-ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643)
-  <div align="center"  >
-<h4 align="center">Plugins</h1>
-
----
-
-- Create your own plugins and join group to add that plugin in repo.
-
-
-
-
-
----
-<h4 align="center"> Live </h1>
-
-Live time
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/live.js
-```
-- ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : You can know which time is Now
----
-
-<h4 align="center">  Teddy  </h1>
-
-SEnds  Animated Teddy 
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/teddy.js
-```
----
-<h4 align="center">  auto forward (EditAble)</h1>
-
-AUTO Forward Message
-```
-https://gist.githubusercontent.com/SuhailTechInfo/5691ba46fffcb311da7ea77f2db2cdc8
-```
-- Editable Plugin : fork it, and edit your information!
----
-
-<h4 align="center">  Fd (EditAble)</h1>
-
-Forward Message with editable Preview
-```
-https://gist.githubusercontent.com/SuhailTechInfo/1c29c84bd1890320d587c04e5c24a429
-```
-- Editable Plugin : fork it, and fill your information!
----
----
-<h4 align="center">  Intro</h1>
-
-Sends Your Intro
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/intro.js
-```
-- Editable Plugin : fork it, and fill your information!
----
-
-<h4 align="center">  Cricket </h1>
-
-scores & cricket
-```
-https://gist.githubusercontent.com/SuhailTechInfo/8c0c6ea1321edc312aacdc416e3451c5/raw
-```
-- ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : get live cricket match scores results
----
-
-<h4 align="center">  Notes </h1>
-
-save , read and delete notes
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/notes.js
-```
-- ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : Save notes in server side
----
-
-<h4 align="center">  AutoReact </h1>
-
-Auto React Messages
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/areact.js
-```
-- Auto React Messages/Cmds/Alls
----
-
-<h4 align="center">  AntiCall </h1>
-
-Decline Call From Spammers
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/anticall.js
-```
-- Auto Decline calls, from selected numbers, Or also Decline Call from All
----
-
-<h4 align="center">  SSaver </h1>
-
-Status Saver.
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/ssaver.js
-```
-- Save Someones Whatsapp Story,
-
----
-
-<h4 align="center">  LevelUp </h1>
-
-Rank, Profile , Leaderboard, LevelUp
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/rank.js
-```
-- Mongodb Require To Access these cmds
----
-
-<h4 align="center">  AntiViewOnve </h1>
-
-Auto Download ViewOnce Messages.
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/antivv.js
-```
-
----
-
-<h4 align="center">  AntiDelete </h1>
-
-DETECT AND SENDS DELETED MESSAGES IN CHAT
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/delete.js
-```
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center">
+ <a href="https://chat.whatsapp.com/CiqdwyiDV9eCR3xLe0Ttvi" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 
 
-<h4 align="center">  ReactionPack </h1>
 
-- send anime reactions.
+   
+ 
+ 
+
+ 
+
+## Bot Games
+---
+1. ***Connect Four Game.***
+2.  ***Tic Tac Toe.***
+3.  ***Number Guessing Game.***
+4.  ***Word chain Game.***
+5.  ***Rolling Dice.***
+##
+
+
+
+
+
+
+
+  
+ 
+## Deployment Methods
+---
+1.  ***Get [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
+2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
+3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` if you Like that Bot.***
+4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
+
+5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/noobrahuls/Suhail-Md)***
+7.  ***Deploy on [`Replit`](https://replit.com/github/SuhailTechInfo/Suhail-Md)***
+
+##
+
+
+***Use this Public MongoDb Key, If you dont have.!***
 ```
-https://gist.githubusercontent.com/SuhailTechInfo/46087297afd330ad280d7cfc74eccbf8/raw
+mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
 ```
- 20+ commands Pack for randome anime reaction
 ---
 
-<h4 align="center">  Audio Editor </h1>
-
-
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/audio.js
-```
-- change audio in different varity
----
-
-<h4 align="center"> TextPro Logo </h1>
-
-Textpro logo list
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/logo.js
-```
-- Text to Image Logo creator
----
-
-
-<h4 align="center"> Pubg Logo </h1>
-
-create pubg logo
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/pubg.js
-```
-- Generate Pubg Mobile logos
----
-
-
-<h4 align="center"> cat </h1>
-
-Randome Cat
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/cat.js
-```
-- Send Randome Cat Images In Chat
-
----
-
-<h4 align="center"> Dog </h1>
-
-Randome Dog Videos
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/dog.js
-```
-- Sends Randome Dog Video Or Image
----
-
-<h4 align="center"> FakeReply </h1>
-
-Send Fake Reply by Given number and message Type
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/fakereply.js
-```
-
----
-
-<h4 align="center"> Hack </h1>
-
-Hacking Prank
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/hack.js
-```
-
----
-
----
-
-<h4 align="center"> GetAll </h1>
-
-Get all jids
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/getall.js
-```
-- Get all member,all groups and all pm user jids
----
+- Star ⭐ repo if you like this bot.
 
 
 
----
-
-<h4 align="center"> Editor-Pack </h1>
-
- Media Editor
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/xmedia.js
-```
--  40+ features to edit media messages, image,audio and video editor
----
-
----
-
-<h4 align="center"> DelSpam </h1>
-
- Delete Multitple messages 
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/delspam.js
-```
--  Delete messages of a user from Group!
----
-
----
-
-<h4 align="center"> StickerSearch </h1>
-
- Search Stickers
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/stickersearch.js
-```
--  Delete messages of a user from Group!
----
+### Thanks To
+- [Sam Pamday](https://github.com/Sampandey001) 
 
 
+The Suhail_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
----
-
-<h4 align="center"> GifSearch </h1>
-
- Search gif Videos
-```
-https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/gifsearch.js
-```
--  Delete messages of a user from Group!
----
-
-
----
-
-<h4 align="center"> Insta Downloader </h1>
-
- Dowanload Insta videos
-```
-https://gist.githubusercontent.com/SuhailTechInfo/4ecf80d5dfd264920117ca44a1917fe8/raw
-```
-- USAGE : .insta insta_video_url
----
----
-
-<h4 align="center"> gdrive Downloader </h1>
-
- Dowanload google drive files
-```
-https://gist.githubusercontent.com/SuhailTechInfo/4ecf80d5dfd264920117ca44a1917fe8/raw
-```
-- USAGE : .gdrive Google_drive_url
----
----
-
-<h4 align="center"> fromurl Downloader </h1>
-
- Dowanload files from url
-```
-https://gist.githubusercontent.com/SuhailTechInfo/4ecf80d5dfd264920117ca44a1917fe8/raw
-```
-- USAGE : .download file_url
----
-
+##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
